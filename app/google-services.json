@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616783408762",
+    "project_id": "firestoredatabasetest-50002",
+    "storage_bucket": "firestoredatabasetest-50002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616783408762:android:66fa2ad0dea9c36b4315c3",
+        "android_client_info": {
+          "package_name": "com.example.firestoredatabasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616783408762-40ee7pi7o4g9hvpnpsntusb81g3kedob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-8RyI9Jt_ZO_vos8RW1qFULbiWzXCGk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616783408762-40ee7pi7o4g9hvpnpsntusb81g3kedob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
